@@ -14,7 +14,7 @@
 
 ### Screenshots
 ### Videos
-Link to videos on [GitHub](https://github.com/mikekeene/Social-Network-Api/assets)
+Link to videos on [GitHub](https://github.com/mikekeene/Social-Network-API/tree/main/assets)
 ## Licence
 MIT License
 ## Questions
